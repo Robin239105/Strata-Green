@@ -39,7 +39,7 @@ npm run build
 npm start
 ```
 
-Requires Node.js 22.x.
+Requires Node.js 20 or newer.
 
 ## Project Structure
 
@@ -61,7 +61,7 @@ URLs for SEO (sitemap, canonical tags, social link previews). Edit one line in
 [`src/lib/site.ts`](src/lib/site.ts):
 
 ```ts
-const PRODUCTION_URL = "https://www.stratagreen.com";
+const PRODUCTION_URL = "https://strata-green-six.vercel.app";
 ```
 
 ## Deployment

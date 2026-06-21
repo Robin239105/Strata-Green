@@ -1,7 +1,7 @@
 // 👇 Your live domain. Change this one line when you have your real domain.
 //    Only used to build absolute URLs for SEO (sitemap, canonical, social
 //    link previews). No env vars, no backend required.
-const PRODUCTION_URL = "https://www.stratagreen.com";
+const PRODUCTION_URL = "https://strata-green-six.vercel.app";
 
 /**
  * Central site configuration.
